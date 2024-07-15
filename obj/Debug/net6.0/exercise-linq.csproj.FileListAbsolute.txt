@@ -1,0 +1,15 @@
+/home/vinicius/Área de Trabalho/exercise-linq/bin/Debug/net6.0/exercise-linq
+/home/vinicius/Área de Trabalho/exercise-linq/bin/Debug/net6.0/exercise-linq.deps.json
+/home/vinicius/Área de Trabalho/exercise-linq/bin/Debug/net6.0/exercise-linq.runtimeconfig.json
+/home/vinicius/Área de Trabalho/exercise-linq/bin/Debug/net6.0/exercise-linq.dll
+/home/vinicius/Área de Trabalho/exercise-linq/bin/Debug/net6.0/ref/exercise-linq.dll
+/home/vinicius/Área de Trabalho/exercise-linq/bin/Debug/net6.0/exercise-linq.pdb
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.csproj.AssemblyReference.cache
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.AssemblyInfoInputs.cache
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.AssemblyInfo.cs
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.csproj.CoreCompileInputs.cache
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.dll
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/ref/exercise-linq.dll
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.pdb
+/home/vinicius/Área de Trabalho/exercise-linq/obj/Debug/net6.0/exercise-linq.genruntimeconfig.cache
